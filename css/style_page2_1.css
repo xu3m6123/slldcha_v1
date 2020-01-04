@@ -702,6 +702,7 @@ display: none;
         top: 0;
         background-color: unset;
         width: 50%;
+        pointer-events: none;
     }
     .navlist:after {
         content: '';
@@ -720,6 +721,7 @@ height: 100%;
     }
     .listmove{
         transform: translateX(100%);
+        pointer-events: auto;
     }
     .nav_ul_flex {
         flex-direction:column;

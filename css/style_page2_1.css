@@ -841,6 +841,9 @@ display: none;
         margin-top: 5%;
         font-size: 12px;
     }
+    .f2_goods_img{
+    height:25%;
+}
     /*art*/
 .footer_p {
     width: 100%;

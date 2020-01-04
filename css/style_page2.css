@@ -737,7 +737,7 @@ height: 100%;
 }
 .mainbox_img {
     width: 92.5%;
-    height:30vh;
+    height:40%;
 }
 .listbox {
     margin: 0 3.65%;
@@ -746,7 +746,7 @@ height: 100%;
 .list_img {
     width: 45.6%;
     margin-top: 3.5%;
-    height:28vh;
+    height:28%;
 }
 .list_img_shide{
     display: none;

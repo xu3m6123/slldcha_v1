@@ -429,7 +429,6 @@ form{
     display: block;
     width: 17.2%;
     border-radius: 3px;
-    height:28vh;
 }
 .list_btn{
     display: flex;
@@ -746,6 +745,7 @@ height: 100%;
 .list_img {
     width: 45.6%;
     margin-top: 3.5%;
+    height:28vh;
 }
 .list_img_shide{
     display: none;

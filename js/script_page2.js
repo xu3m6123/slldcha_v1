@@ -246,7 +246,7 @@ $(document).ready(function () {
     .to('#art_f2_btn3', 0.1, { duration: 0.1, autoAlpha: 1, ease: "sine.in", x: 0 })
 
   let time_art5 = new TimelineMax()
-    .from('#mainbox4', 0.5, { duration: 0.5, autoAlpha: 0, ease: "sine.in", x: 30 })
+    .from('#mainbox4', 0.5, { duration: 0.5, autoAlpha: 0, ease: "sine.in", x: -50 })
   let time_art5_goods = new TimelineMax()
     .from('#list4_1', 0.5, { duration: 0.5, autoAlpha: 0, ease: "sine.in", y: 50, delay: 0.8 })
     .from('#list4_2', 0.5, { duration: 0.5, autoAlpha: 0, ease: "sine.in", y: 50 })
